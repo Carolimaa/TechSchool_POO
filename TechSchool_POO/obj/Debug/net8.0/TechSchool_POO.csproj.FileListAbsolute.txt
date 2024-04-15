@@ -1,0 +1,14 @@
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\obj\Debug\net8.0\TechSchool_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\obj\Debug\net8.0\TechSchool_POO.AssemblyInfoInputs.cache
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\obj\Debug\net8.0\TechSchool_POO.AssemblyInfo.cs
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\obj\Debug\net8.0\TechSchool_POO.csproj.CoreCompileInputs.cache
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\bin\Debug\net8.0\TechSchool_POO.exe
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\bin\Debug\net8.0\TechSchool_POO.deps.json
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\bin\Debug\net8.0\TechSchool_POO.runtimeconfig.json
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\bin\Debug\net8.0\TechSchool_POO.dll
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\bin\Debug\net8.0\TechSchool_POO.pdb
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\obj\Debug\net8.0\TechSchool_POO.dll
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\obj\Debug\net8.0\refint\TechSchool_POO.dll
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\obj\Debug\net8.0\TechSchool_POO.pdb
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\obj\Debug\net8.0\TechSchool_POO.genruntimeconfig.cache
+C:\Users\CarolineVitóriaCoelh\source\repos\TechSchool_POO\TechSchool_POO\obj\Debug\net8.0\ref\TechSchool_POO.dll
